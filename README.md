@@ -5,7 +5,7 @@
 
   - [Algorithm for file updates in Python](https://github.com/Aminamrr/FileAlgorithmForPython.git)
   - [File permissions in Linux](https://github.com/Aminamrr/File-Permissions-in-Linux.git)
-  - [Apply filters to SQL Queries](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Apply filters to SQL Queries](https://github.com/Aminamrr/ApplyFilterstoSQLQueries.git)
   - [Vulnerability Assessment Report](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Incident Handler's Journal](https://github.com/joshmadakor1/Algorithms-Practice)
 
