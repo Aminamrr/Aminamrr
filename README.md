@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-  - [Algorithm for file updates in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Algorithm for file updates in Python](https://github.com/Aminamrr/FileAlgorithmForPython.git)
   - [File permissions in Linux](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Apply filters to SQL Queries](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Vulnerability Assessment Report](https://github.com/joshmadakor1/Algorithms-Practice)
