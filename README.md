@@ -13,7 +13,7 @@
 <h2>📺 Certifications</h2>
 
 - [Google Cybersecurity Certificate](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [AWS Certified Cloud Practitioner Certificate](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [AWS Certified Cloud Practitioner Certificate]()
 
 <h2> 🤳 Connect with me:</h2>
 
