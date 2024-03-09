@@ -7,7 +7,7 @@
   - [File permissions in Linux](https://github.com/Aminamrr/File-Permissions-in-Linux.git)
   - [Apply filters to SQL Queries](https://github.com/Aminamrr/ApplyFilterstoSQLQueries.git)
   - [Vulnerability Assessment Report](https://github.com/Aminamrr/VulnerabilityAssessmentReport.git)
-  - [Incident Handler's Journal](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Incident Handler's Journal](https://github.com/Aminamrr/IncidentHandler-sJournal.git)
 
 
 <h2>📺 Certifications</h2>
