@@ -12,7 +12,7 @@
 
 <h2>📺 Certifications</h2>
 
-- [Google Cybersecurity Certificate]
+- [Google Cybersecurity Certificate](https://github.com/Aminamrr/GoogleCybersecurityCertificate.git)
 - [AWS Certified Cloud Practitioner Certificate](https://github.com/Aminamrr/AWS-Cloud-Practitioner-Certificate.git)
 
 <h2> 🤳 Connect with me:</h2>
