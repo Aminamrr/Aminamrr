@@ -1,6 +1,6 @@
 <h1>Hi, I'm Alamin! </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 
   - [Algorithm for file updates in Python](https://github.com/Aminamrr/FileAlgorithmForPython.git)
