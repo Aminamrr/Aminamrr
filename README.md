@@ -4,8 +4,9 @@
 
 <h2>👨‍💻 Cybersecurity And Cloud Projects:</h2>
 
-
+- <b>Python Algorithms</b>
   - [Algorithm for file updates in Python](https://github.com/Aminamrr/FileAlgorithmForPython.git)
+- <b>Linux Permissions</b>
   - [File permissions in Linux](https://github.com/Aminamrr/File-Permissions-in-Linux.git)
   - [Apply filters to SQL Queries](https://github.com/Aminamrr/ApplyFilterstoSQLQueries.git)
   - [Vulnerability Assessment Report](https://github.com/Aminamrr/VulnerabilityAssessmentReport.git)
