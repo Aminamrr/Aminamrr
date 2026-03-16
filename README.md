@@ -1,6 +1,8 @@
-<h1>Hi, I'm Alamin! </h1>
+# Hi, I'm Alamin!
 
-<h2>👨‍💻 Projects:</h2>
+![](https://img.shields.io/badge/Cybersecurity%20%26%20Cloud%20Professional-0A66C2?style=for-the-badge)
+
+<h2>👨‍💻 Cybersecurity And Cloud Projects:</h2>
 
 
   - [Algorithm for file updates in Python](https://github.com/Aminamrr/FileAlgorithmForPython.git)
