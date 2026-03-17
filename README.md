@@ -5,7 +5,7 @@
 <h2>👨‍💻 Cybersecurity And Cloud Projects:</h2>
 
 - <b>Cloud-Based SIEM & Honeypot SOC using Microsoft Sentinel</b>
-  - [Cloud-Based SIEM & Honeypot SOC](https://github.com/Aminamrr/Creating-a-SOC-and-SIEM-In-The-Cloud-.git))
+  - [Cloud-Based SIEM & Honeypot SOC](https://github.com/Aminamrr/Creating-a-SOC-and-SIEM-In-The-Cloud-.git)
 - <b>Python Algorithms</b>
   - [Algorithm for file updates in Python](https://github.com/Aminamrr/FileAlgorithmForPython.git)
 - <b>Linux Permissions</b>
