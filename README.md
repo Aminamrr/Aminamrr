@@ -7,7 +7,7 @@
 - <b>Cloud-Based SIEM & Honeypot SOC using Microsoft Sentinel</b>
   - [Cloud-Based SIEM & Honeypot SOC](https://github.com/Aminamrr/Creating-a-SOC-and-SIEM-In-The-Cloud-.git)
 - <b>Securing Data in AWS S3 Buckets</b>
-  - [Securing AWS S3 Buckets](https://github.com/Aminamrr/Securing-Data-In-AWS-S3-Buckets.git))
+  - [Securing AWS S3 Buckets](https://github.com/Aminamrr/Securing-Data-In-AWS-S3-Buckets.git)
 - <b>Python Algorithms</b>
   - [Algorithm for file updates in Python](https://github.com/Aminamrr/FileAlgorithmForPython.git)
 - <b>Linux Permissions</b>
