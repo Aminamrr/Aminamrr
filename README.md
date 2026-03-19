@@ -2,10 +2,12 @@
 
 ![](https://img.shields.io/badge/Cybersecurity%20%26%20Cloud%20Professional-0A66C2?style=for-the-badge)
 
-<h2>👨‍💻 Cybersecurity And Cloud Projects:</h2>
+<h2>👨‍💻 Cybersecurity & Cloud Projects:</h2>
 
 - <b>Cloud-Based SIEM & Honeypot SOC using Microsoft Sentinel</b>
   - [Cloud-Based SIEM & Honeypot SOC](https://github.com/Aminamrr/Creating-a-SOC-and-SIEM-In-The-Cloud-.git)
+- <b>Securing Data in AWS S3 Buckets</b>
+  - [Securing AWS S3 Buckets](https://github.com/Aminamrr/Creating-a-SOC-and-SIEM-In-The-Cloud-.git)
 - <b>Python Algorithms</b>
   - [Algorithm for file updates in Python](https://github.com/Aminamrr/FileAlgorithmForPython.git)
 - <b>Linux Permissions</b>
